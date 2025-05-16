@@ -16,4 +16,4 @@ Mangnani is a Discord bot designed to automate Riot account verification and ass
 This bot is primarily intended for Korean-speaking communities. As such, some parts of the code include logic for translating or adapting rank names and messages into Korean (ex, converting "GOLD" to "골드").
 
 ## Link
-[Prototype source code](rank.py)
+[Prototype source code](https://github.com/diving-Heimin/Mangnani/blob/master/cogs/rank.py)
